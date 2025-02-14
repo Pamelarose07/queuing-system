@@ -1,0 +1,6 @@
+No ";" in the start
+
+pdo_mysql
+pdo_odbc
+pdo_pgsql
+pdo_sqlite

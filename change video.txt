@@ -1,0 +1,7 @@
+1. Move the file inside the folder together the codes
+
+2. Go to the tv.php
+
+3. In video syntax there's a src=".mp4" change the name and the video format.
+
+4. Refresh the page of tv.php and reload it
